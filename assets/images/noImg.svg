@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="308" viewBox="0 0 460 308">
+  <g id="Image" transform="translate(-71 -68)">
+    <g id="rectangle-14" transform="translate(71 68)" fill="#e8e8e8" stroke="#c9caca" stroke-width="1">
+      <rect width="460" height="308" stroke="none"/>
+      <rect x="0.5" y="0.5" width="459" height="307" fill="none"/>
+    </g>
+    <g id="group-54" transform="translate(-36.408 -34.602)">
+      <circle id="ellipse-9" cx="15.392" cy="15.392" r="15.392" transform="translate(325.13 220.563)" fill="#babcbc"/>
+      <path id="path-8" d="M2704.856,353.19l52.622-66.634,60.006,66.634Z" transform="translate(-2454.448 -82.954)" fill="#f4f4f4"/>
+      <path id="path-8-2" data-name="path-8" d="M2734.929,347.582l69.926-51.542,57.055,51.542Z" transform="translate(-2436.666 -77.346)" fill="#fff"/>
+      <line id="line-9" x2="30.951" transform="translate(325.347 278.233)" fill="none" stroke="#c7caca" stroke-width="1"/>
+      <line id="line-9-2" data-name="line-9" x2="20.687" transform="translate(330.121 294.146)" fill="none" stroke="#c7caca" stroke-width="1"/>
+      <line id="line-9-3" data-name="line-9" x2="25.461" transform="translate(328.53 286.189)" fill="none" stroke="#c7caca" stroke-width="1"/>
+      <line id="line-9-4" data-name="line-9" x2="15.913" transform="translate(333.304 302.103)" fill="none" stroke="#c7caca" stroke-width="1"/>
+      <line id="line-9-5" data-name="line-9" x2="7.957" transform="translate(336.486 310.059)" fill="none" stroke="#c7caca" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
+ 
