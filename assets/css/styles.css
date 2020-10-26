@@ -30,7 +30,7 @@ h6 {
 }
 
 a.filled-button {
-  background-color: #c24d2c;
+  background-color: #c93327;
   color: #fff;
   font-size: 13px;
   text-transform: uppercase;
@@ -43,7 +43,7 @@ a.filled-button {
 
 a.filled-button:hover {
   background-color: #fff;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 a.border-button {
@@ -61,7 +61,7 @@ a.border-button {
 
 a.border-button:hover {
   background-color: #fff;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .section-heading {
@@ -77,7 +77,7 @@ a.border-button:hover {
 
 .section-heading em {
   font-style: normal;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .section-heading span {
@@ -91,7 +91,7 @@ a.border-button:hover {
 
 #preloader {
   overflow: hidden;
-  background: #c24d2c;
+  background: #c93327;
   left: 0;
   right: 0;
   top: 0;
@@ -173,7 +173,7 @@ a.border-button:hover {
 /*----------------------------------------*/
 
 .sub-header {
-  background-color: #c24d2c;
+  background-color: #c93327;
   height: 35px;
   line-height: 35px;
 }
@@ -255,7 +255,7 @@ header .navbar {
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
 }
 .background-header .navbar-brand h2 {
-  color: #c24d2c !important;
+  color: #c93327 !important;
 }
 .background-header .navbar-nav a.nav-link {
   color: #1e1e1e !important;
@@ -265,7 +265,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show > .nav-link {
-  color: #c24d2c !important;
+  color: #c93327 !important;
 }
 .navbar .navbar-brand {
   float: left;
@@ -309,7 +309,7 @@ header .navbar {
 .navbar .navbar-nav .nav-link.active,
 .navbar .navbar-nav .nav-link.show,
 .navbar .navbar-nav .show > .nav-link {
-  color: #c24d2c;
+  color: #c93327;
   border-bottom: 3px solid#c24d2c;
 }
 .navbar .navbar-toggler-icon {
@@ -325,7 +325,7 @@ header .navbar {
 }
 .navbar .navbar-toggler-icon:after {
   content: "\f0c9";
-  color: #c24d2c;
+  color: #c93327;
   font-size: 28px;
   line-height: 26px;
   font-family: "FontAwesome";
@@ -451,7 +451,7 @@ ul.slick-dots {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #c24d2c;
+  color: #c93327;
   animation: fadeOutRight 1s both;
 }
 
@@ -575,7 +575,7 @@ ul.slick-dots {
 /*----------------------------------------*/
 
 .request-form {
-  background-color: #c24d2c;
+  background-color: #c93327;
   padding: 25px 0px;
   color: #fff;
 }
@@ -658,7 +658,7 @@ ul.slick-dots {
 
 .facts em {
   font-style: normal;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .facts p {
@@ -679,7 +679,7 @@ ul.slick-dots {
 
 .count-digit {
   margin: 5px 0px;
-  color: #c24d2c;
+  color: #c93327;
   font-weight: 700;
   font-size: 36px;
 }
@@ -737,7 +737,7 @@ ul.slick-dots {
 
 .more-info .right-content em {
   font-style: normal;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .more-info .right-content p {
@@ -779,7 +779,7 @@ ul.slick-dots {
   margin-top: 8px;
   font-weight: 600;
   font-size: 14px;
-  color: #c24d2c;
+  color: #c93327;
 }
 .testimonial-item img {
   max-width: 60px;
@@ -811,7 +811,7 @@ ul.slick-dots {
 }
 
 .callback-form .contact-form {
-  background-color: #c24d2c;
+  background-color: #c93327;
   padding: 60px;
   border-radius: 5px;
   text-align: center;
@@ -889,11 +889,11 @@ ul.slick-dots {
 
 .callback-form .contact-form button.border-button:hover {
   background-color: #fff;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .contact-us .contact-form button.filled-button {
-  background-color: #c24d2c;
+  background-color: #c93327;
   color: #fff;
   border: none;
   font-size: 13px;
@@ -911,7 +911,7 @@ ul.slick-dots {
 
 .contact-us .contact-form button.filled-button:hover {
   background-color: #fff;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 /*----------------------------------------*/
@@ -985,7 +985,7 @@ footer ul.social-icons li a {
 }
 
 footer ul.social-icons li a:hover {
-  background-color: #c24d2c;
+  background-color: #c93327;
 }
 
 footer ul.menu-list li {
@@ -1003,7 +1003,7 @@ footer ul.menu-list li a {
 }
 
 footer ul.menu-list li a:hover {
-  color: #c24d2c;
+  color: #c93327;
 }
 
 footer .contact-form input {
@@ -1066,7 +1066,7 @@ footer .contact-form ::placeholder {
 footer .contact-form button.filled-button {
   background-color: transparent;
   color: #fff;
-  background-color: #c24d2c;
+  background-color: #c93327;
   border: none;
   font-size: 13px;
   text-transform: uppercase;
@@ -1083,7 +1083,7 @@ footer .contact-form button.filled-button {
 
 footer .contact-form button.filled-button:hover {
   background-color: #fff;
-  color: #c24d2c;
+  color: #c93327;
 }
 
 /*----------------------------------------*/
@@ -1169,7 +1169,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .team-item .down-content span {
-  color: #c24d2c;
+  color: #c93327;
   font-weight: 600;
   font-size: 14px;
   display: block;
@@ -1204,7 +1204,7 @@ footer .contact-form button.filled-button:hover {
   width: 100%;
   padding: 30px 30px;
   display: inline-block;
-  background-color: #c24d2c;
+  background-color: #c93327;
   font-size: 20px;
   color: #121212;
   letter-spacing: 0.5px;
@@ -1265,7 +1265,7 @@ footer .contact-form button.filled-button:hover {
 }
 
 .contact-information .contact-item i {
-  color: #c24d2c;
+  color: #c93327;
   font-size: 48px;
   margin-bottom: 40px;
 }
@@ -1283,7 +1283,7 @@ footer .contact-form button.filled-button:hover {
 
 .contact-information .contact-item a {
   font-weight: 600;
-  color: #c24d2c;
+  color: #c93327;
   font-size: 15px;
 }
 
@@ -1394,7 +1394,7 @@ footer .contact-form button.filled-button:hover {
   .navbar .navbar-nav .nav-link.active,
   .navbar .navbar-nav .nav-link.show,
   .navbar .navbar-nav .show > .nav-link {
-    color: #c24d2c !important;
+    color: #c93327 !important;
     border-bottom: none !important;
   }
 }
@@ -1426,7 +1426,7 @@ footer .contact-form button.filled-button:hover {
 
 .services-details:hover h4,
 .services-details:hover .services-icon {
-  color: #c24d2c;
+  color: #c93327;
 }
 
 .row.second-row {
