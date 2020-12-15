@@ -37,9 +37,9 @@ jQuery(document).ready(function ($) {
       dots: true,
       items: 1,
       margin: 30,
-      autoplay: false,
+      autoplay: true,
       smartSpeed: 700,
-      autoplayTimeout: 6000,
+      autoplayTimeout: 4000,
       responsive: {
         0: {
           items: 1,
@@ -67,9 +67,9 @@ jQuery(document).ready(function ($) {
       dots: true,
       items: 1,
       margin: 30,
-      autoplay: false,
+      autoplay: true,
       smartSpeed: 700,
-      autoplayTimeout: 6000,
+      autoplayTimeout: 4000,
       responsive: {
         0: {
           items: 1,
@@ -108,16 +108,22 @@ jQuery(document).ready(function ($) {
   });
 
   function visible(partial) {
-    var $t = partial,
-      $w = jQuery(window),
-      viewTop = $w.scrollTop(),
-      viewBottom = viewTop + $w.height(),
-      _top = $t.offset().top,
-      _bottom = _top + $t.height(),
-      compareTop = partial === true ? _bottom : _top,
-      compareBottom = partial === true ? _top : _bottom;
+    if (partial.length > 0) {
+      var $t = partial,
+        $w = jQuery(window),
+        viewTop = $w.scrollTop(),
+        viewBottom = viewTop + $w.height(),
+        _top = $t.offset().top,
+        _bottom = _top + $t.height(),
+        compareTop = partial === true ? _bottom : _top,
+        compareBottom = partial === true ? _top : _bottom;
 
-    return compareBottom <= viewBottom && compareTop >= viewTop && $t.is(":visible");
+      return (
+        compareBottom <= viewBottom &&
+        compareTop >= viewTop &&
+        $t.is(":visible")
+      );
+    }
   }
 
   $(window).scroll(function () {
